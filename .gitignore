@@ -1,0 +1,20 @@
+*.log
+*.tags*
+*build*/
+*.swp
+*.idea
+
+
+*.a
+*.so
+*.log
+.vagrant
+
+*.pro.user
+*.pro.user.*
+
+# Eclipse
+[568vq].out
+_testmain.go
+
+Dockerfile.dev
